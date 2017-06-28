@@ -39,7 +39,7 @@ Further information on registering can be found [here](http://emerging-viruses.u
 
 ## Sponsors
 
-We would like to thank our sponsors for this conference; more information can be found [here](http://emerging-viruses.uk/sponsors).
+We would like to thank our sponsors for their support; more information can be found [here](http://emerging-viruses.uk/sponsors).
 
 <img src="img/ge.jpeg" alt="GE Healthcare" height="96">
 <br>
