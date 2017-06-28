@@ -40,7 +40,11 @@ Further information on registering can be found [here](http://emerging-viruses.u
 ## Sponsors
 
 <img src="img/ge.jpeg" alt="GE Healthcare" height="48">
+<br>
 <img src="img/geneflow.jpeg" alt="Geneflow" height="48">
+<br>
 <img src="img/qiagen.png" alt="QIAGEN" height="48">
+<br>
 <img src="img/stratech.png" alt="Stratech" height="48">
+<br>
 <img src="img/thermofisher.png" alt="Thermo Fisher" height="48">
