@@ -35,4 +35,4 @@ Abstract submission has closed.
 
 The deadline for registration is **8th July 2017**.
 
-Further information on submitting an abstract and registering can be found [here](http://emerging-viruses.uk/registration).
+Further information on registering can be found [here](http://emerging-viruses.uk/registration).
