@@ -31,7 +31,7 @@ The meeting will be held at [Churchill College, Cambridge](https://www.chu.cam.a
 
 ## Abstracts and Registration
 
-The deadline for abstracts is **9th June 2017**.
+Abstract submission has closed.
 
 The deadline for registration is **8th July 2017**.
 
