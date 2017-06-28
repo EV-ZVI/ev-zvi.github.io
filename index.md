@@ -36,3 +36,11 @@ Abstract submission has closed.
 The deadline for registration is **8th July 2017**.
 
 Further information on registering can be found [here](http://emerging-viruses.uk/registration).
+
+## Sponsors
+
+<img src="img/ge.jpeg" alt="GE Healthcare" height="42" width="42">
+<img src="img/geneflow.jpeg" alt="Geneflow" height="42" width="42">
+<img src="img/qiagen.png" alt="QIAGEN" height="42" width="42">
+<img src="img/stratech.png" alt="Stratech" height="42" width="42">
+<img src="img/thermofisher.png" alt="Thermo Fisher" height="42" width="42">
