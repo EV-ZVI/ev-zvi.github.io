@@ -41,12 +41,16 @@ Further information on registering can be found [here](http://emerging-viruses.u
 
 We would like to thank our sponsors for this conference; more information can be found [here](http://emerging-viruses.uk/sponsors).
 
-<img src="img/ge.jpeg" alt="GE Healthcare" height="48">
+<img src="img/ge.jpeg" alt="GE Healthcare" height="96">
 <br>
-<img src="img/geneflow.jpeg" alt="Geneflow" height="48">
 <br>
-<img src="img/qiagen.png" alt="QIAGEN" height="48">
+<img src="img/geneflow.jpeg" alt="Geneflow" height="96">
+<br>
+<br>
+<img src="img/qiagen.png" alt="QIAGEN" height="96">
+<br>
 <br>
 <img src="img/stratech.png" alt="Stratech" height="48">
 <br>
-<img src="img/thermofisher.png" alt="Thermo Fisher" height="48">
+<br>
+<img src="img/thermofisher.png" alt="Thermo Fisher" height="96">
