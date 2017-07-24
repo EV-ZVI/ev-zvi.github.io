@@ -31,3 +31,7 @@ GE Healthcare provides transformational medical technologies and services that a
 ## QIAGEN
 
 QIAGEN offers a broad range of more than 500 core products to meet the special requirements of its more than 500,000 customers worldwide. It has also developed complete instrument solutions to enable full automation of laboratory procedures, from the initial sample to the final result.
+
+## NBS Biologicals
+
+NBS Biologicals strives to support scientific research in both academia and industry, with cost effective and quality products and services. Their product catalogue includes new and novel reagents as well as general lab products covering applications in genomics, proteomics, cell biology, and cell immortalization. They are always happy to discuss your research and ensure you will receive the best customer service from any biotech company.'
