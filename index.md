@@ -31,11 +31,7 @@ The meeting will be held at [Churchill College, Cambridge](https://www.chu.cam.a
 
 ## Abstracts and Registration
 
-Abstract submission has closed.
-
-The deadline for registration is **8th July 2017**.
-
-Further information on registering can be found [here](http://emerging-viruses.uk/registration).
+Abstract submission and registration have closed.
 
 ## Sponsors
 
@@ -54,3 +50,6 @@ We would like to thank our sponsors for their support; more information can be f
 <br>
 <br>
 <img src="img/thermofisher.png" alt="Thermo Fisher" height="96">
+<br>
+<br>
+<img src="img/nbs.png" alt="NBS Biologicals" height="96">
